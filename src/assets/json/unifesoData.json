@@ -1,0 +1,81 @@
+[
+  {
+    "id": "homePage",
+    "primaryColor": "var(--unifeso-primary-color)",
+    "secondaryColor": "var(--unifeso-secondary-color)",
+    "tertiaryColor": "var(--unifeso-tertiary-color)",
+    "background": "/images/unifesoBackground.svg",
+    "banners": [
+      {
+        "id": 1,
+        "type": "main",
+        "title": "Bem-vindo ao Painel Acadêmico",
+        "subtitle": "Aqui fornecemos informações essenciais para os alunos",
+        "paragraph": "Obtenha acesso a todas as informações acadêmicas de forma fácil e rápida.",
+        "buttonText": "Explorar",
+        "image": "/images/unifesoBanner.jpg",
+        "imageIcon": "/images/unifesoIcon.svg"
+      },
+      {
+        "id": 2,
+        "type": "Infos",
+        "title": "Publicações Acadêmicas",
+        "items": [
+          {
+            "id": 1,
+            "title": "Cibersegurança: Desafios e Estratégias",
+            "paragraph": "Explorando os desafios em cibersegurança e as estratégias para proteger sistemas de informação. Este artigo destaca as tendências recentes em ataques cibernéticos e aborda medidas essenciais para fortalecer a segurança dos sistemas de informação.",
+            "date": "Há 2 meses - Em Cibersegurança",
+            "image": "/images/tempInfo.svg"
+          },
+          {
+            "id": 2,
+            "title": "Importância da Educação em Tecnologia",
+            "paragraph": "Analisando como a educação em tecnologia contribui para o avanço social e econômico. Este artigo destaca o papel fundamental dos programas educacionais de tecnologia no desenvolvimento social e econômico da sociedade moderna.",
+            "date": "Há 3 semanas - Em Tecnologia da Informação",
+            "image": "/images/tempInfo.svg"
+          },
+          {
+            "id": 3,
+            "title": "Inovações em Inteligência Artificial",
+            "paragraph": "Uma análise das últimas tendências em inteligência artificial e seu impacto no setor de TI. Este artigo explora inovações recentes, desde algoritmos avançados até aplicações práticas em diferentes setores de Tecnologia da Informação.",
+            "date": "Há 1 mês - Em Inovação Tecnológica",
+            "image": "/images/tempInfo.svg"
+          },
+          {
+            "id": 4,
+            "title": "Desenvolvimento Sustentável na Indústria de Software",
+            "paragraph": "Estratégias para promover o desenvolvimento sustentável no desenvolvimento de software. Este artigo destaca práticas adotadas por empresas de software para reduzir seu impacto ambiental e integrar princípios sustentáveis.",
+            "date": "Há 1 mês - Em Desenvolvimento Sustentável",
+            "image": "/images/tempInfo.svg"
+          },
+          {
+            "id": 5,
+            "title": "Evolução das Redes de Computadores",
+            "paragraph": "Uma retrospectiva sobre a evolução das redes de computadores e seu papel na era digital. Este artigo oferece uma visão geral da evolução das redes, desde as primeiras conexões até as infraestruturas complexas da era digital.",
+            "date": "Há 2 meses - Em Redes de Computadores",
+            "image": "/images/tempInfo.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "loginPage",
+    "primaryColor": "var(--unifeso-primary-color)",
+    "secondaryColor": "var(--unifeso-secondary-color)",
+    "tertiaryColor": "var(--unifeso-tertiary-color)",
+    "background": "/images/unifesoBackground.svg",
+    "banners": [
+      {
+        "id": 1,
+        "type": "Login",
+        "title": "DIFERENCIAIS DA NOSSA INSTITUIÇÃO",
+        "subtitle": "Descubra por que somos uma escolha excepcional",
+        "image": "/images/unifesoStudents.svg",
+        "paragraph": "Oferecemos uma variedade de cursos para atender às suas necessidades acadêmicas. Descubra os diferenciais que fazem da nossa instituição a escolha certa para sua educação.",
+        "hoverColor": "#002927d7"
+      }
+    ]
+  }
+]

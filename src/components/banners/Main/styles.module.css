@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: var(--padding);
+  padding-top: 148px;
+  width: 100%;
+  background-size: 100%;
+}
