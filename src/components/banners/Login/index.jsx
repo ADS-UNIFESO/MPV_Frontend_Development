@@ -42,7 +42,7 @@ export default function Login({ type }) {
 
             <a
               className={styles.a}
-              href='/'
+              href='/candidato_colaborador'
             >
               Quero ser colaborador
             </a>
