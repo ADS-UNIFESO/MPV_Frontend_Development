@@ -12,7 +12,7 @@ export default function InfosBanner({ type }) {
           id={anchor}
         >
           <div className={styles.content}>
-            <h2>Notícias do mês</h2>
+            <h2>Últimos Artigos</h2>
             {banner.items.map((props) => (
               <div className={styles.cards}>
                 <div className={styles.imageBox}>

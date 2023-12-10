@@ -20,7 +20,7 @@ export default function AppRoutes() {
         <ScrollToTop />
         <Routes>
           <Route
-            path='/'
+            path='/home'
             element={<Home pageId='homePage' />}
           >
             <Route
@@ -29,7 +29,7 @@ export default function AppRoutes() {
             />
           </Route>
           <Route
-            path='/firstAcess'
+            path='/login'
             element={<FirstAccess pageId='loginPage' />}
           />
           {/* <Route
