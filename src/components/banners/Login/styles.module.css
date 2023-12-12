@@ -69,8 +69,6 @@
   text-align: center;
 }
 
-/* Styles card abaixo - remover quando componentizar */
-
 .card {
   display: flex;
   padding: 16px;
