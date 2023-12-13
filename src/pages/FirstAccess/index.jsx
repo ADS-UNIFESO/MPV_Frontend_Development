@@ -22,7 +22,10 @@ export default function FirstAccess({ pageId }) {
   ];
   return (
     <section className={styles.main}>
-      {/* fill in the type (data.json - banners type), background (rgba or false), revertPosition (true or false) and anchor */}
+      <MainBanner
+        type={filteredBanner("Main", true, false, "anchorHome")}
+        className={styles.mainBanner}
+      />     
       <Login type={filteredBanner("Login", false, false, "anchorHome")} />
     </section>
   );
