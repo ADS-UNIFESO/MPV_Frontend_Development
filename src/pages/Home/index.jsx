@@ -22,10 +22,8 @@ export default function Home({ pageId }) {
   ];
   return (
     <section className={styles.main}>
-      {/* fill in the type (data.json - banners type), background (rgba or false), revertPosition (true or false) and anchor */}
-      {/* <MainBanner type={filteredBanner("main", false, false, "anchorHome")} /> */}
-
-      <InfosBanner type={filteredBanner("Infos", false, false, "anchorHome")} />
+      <MainBanner type={filteredBanner("Main", true, false, "anchorHome")} />    
+      <InfosBanner type={filteredBanner("Infos", false, true, "anchorHome")} />   
     </section>
-  );
+  );  
 }
