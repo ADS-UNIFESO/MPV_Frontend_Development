@@ -56,7 +56,8 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
     - **Desempenho**: O sistema deve ser capaz de gerenciar um número razoável de agendamentos de forma eficiente.
    
 </br>
-<h1 align="center">Telas do Sistema
+<h1 align="center">
+    Telas do Sistema
 </h1>
 
 - ## Login
@@ -72,6 +73,16 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 ![](./public/images/cadastroArtigo.png)
 
 </br>
+</br>
+</br>
+<h1 align="center">
+    (LIVE)bubble.io
+</h1>
+
+- ## Dashboard de e publicação
+![https://discord.com/channels/804903981045776414/809144024064983040/1184964149034356776](./public/images/prototipoImplantado.jpg)
+
+
 
 ## Tecnologia Utilizada
 
