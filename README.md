@@ -9,8 +9,7 @@
     MVP Front-End Development
 </h2>
 
-
-
+</br>
 
 - Atividade: Criar um MVP
 - Situação Problema escolhida (resumo): Plataforma web que proporcione acesso rápido e fácil às publicações acadêmicas da Editora Unifeso. 
@@ -37,6 +36,16 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
     - Segurança de Dados: Garantir a segurança e privacidade dos dados pessoais dos usuários.
     - Desempenho Rápido: O sistema deve responder rapidamente para acomodar um grande número de usuários.
 
+</br>
+</br>
+<h1 align="center">Telas do Sistema
+</h1>
+
+- ## Login
+![](./src/assets/gifs/login.gif)
+
+- ## Artigos
+![](./src/assets/gifs/artigos.gif)
 
 </br>
 
