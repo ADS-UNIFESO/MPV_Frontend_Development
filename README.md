@@ -80,7 +80,7 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 </h1>
 
 - ## Dashboard de e publicação
-[![](./public/images/prototipoImplantado.jpg)(https://discord.com/channels/804903981045776414/809144024064983040/1184964149034356776)]
+[![](./public/images/prototipoImplantado.jpg)](https://discord.com/channels/804903981045776414/809144024064983040/1184964149034356776)
 
 
 
