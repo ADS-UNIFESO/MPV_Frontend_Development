@@ -1,6 +1,6 @@
 <a name="back-to-top">
 <p align="center">
-    <img src="https://gist.github.com/assets/57602117/fba9f6db-c5c7-4575-af22-2e8d8273e0e6" alt="unifeso-logo">
+    <img href="https://gist.github.com/assets/57602117/fba9f6db-c5c7-4575-af22-2e8d8273e0e6" alt="unifeso-logo">
 </p>
 <h1 align="center">🎓
     Análise e Desenvolvimento de Sistemas💻
