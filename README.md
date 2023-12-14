@@ -64,6 +64,12 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 - ## Artigos
 ![](./src/assets/gifs/artigos.gif)
 
+- ## Pesquisa Avançada
+![](./public/images/PesquisaAvancada.png)
+
+- ## Casdastro de Artigos
+![](./public/images/cadastroArtigo.png)
+
 </br>
 
 ## Tecnologia Utilizada
