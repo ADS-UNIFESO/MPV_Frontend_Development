@@ -40,7 +40,7 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 
 </br>
 
-## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+## Tecnologia Utilizada
 
 - [**HTML5**](https://html.spec.whatwg.org/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
@@ -49,4 +49,5 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 - [**npm**](https://www.npmjs.com/)    [(*Documentação*)](https://docs.npmjs.com/)      
 
 <br>
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
