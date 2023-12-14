@@ -40,11 +40,12 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
 </br>
 
 - ## Requisitos Funcionais
-    - **Criação de Agendamentos**: Deve ser possível adicionar novos agendamentos à lista.
-    - **Remoção de Agendamentos**: Os usuários devem poder remover agendamentos da lista.
-    - **Login do Usuário**: O sistema deve permitir que os usuários se autentiquem com credenciais corretas.
-    - **Visualização de Agendamentos**: Os usuários devem poder ver uma lista de agendamentos após o login.
-    - **Informações do Agendamento**: A lista deve mostrar detalhes como título, descrição e data de vencimento de cada agendamento.
+    - **Sistema de Cadastro de Publicações**: O administrador poderá cadastrar novas publicações, incluindo informações como título, autor, data de publicação, resumo e categorias.
+    - **Sistema de Busca Avançada**: Os usuários poderão pesquisar as publicações por autor, categoria, data de publicação e palavras-chave, filtrando os resultados de acordo com os seus interesses.
+    - **Visualização Detalhada**: Os usuários poderão acessar uma visualização detalhada de cada publicação, incluindo informações completas sobre o conteúdo e opções de download.
+    - **Comentários e Avaliações**: Os usuários registrados poderão comentar e avaliar as publicações, proporcionando um ambiente interativo para discussão e feedback.
+    - **Controle de Acesso**: Haverá diferentes níveis de acesso, com os administradores tendo permissões adicionais para editar, excluir e gerenciar publicações.
+    - **Sistema de Recomendação**: A plataforma terá um sistema de recomendação que sugere publicações com base nas preferências e histórico de visualização dos usuários.
  
 
 - ## Requisitos Não Funcionais
