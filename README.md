@@ -37,6 +37,23 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
     - Desempenho Rápido: O sistema deve responder rapidamente para acomodar um grande número de usuários.
 
 </br>
+Aqui está uma versão resumida dos requisitos:
+
+**Requisitos Funcionais**:
+
+1. **Login do Usuário**: O sistema deve permitir que os usuários se autentiquem com credenciais corretas.
+2. **Visualização de Agendamentos**: Os usuários devem poder ver uma lista de agendamentos após o login.
+3. **Informações do Agendamento**: A lista deve mostrar detalhes como título, descrição e data de vencimento de cada agendamento.
+4. **Criação de Agendamentos**: Deve ser possível adicionar novos agendamentos à lista.
+5. **Remoção de Agendamentos**: Os usuários devem poder remover agendamentos da lista.
+
+**Requisitos Não Funcionais**:
+
+1. **Segurança**: As informações de login dos usuários devem ser armazenadas de forma segura para evitar acessos não autorizados.
+2. **Usabilidade**: A interface do usuário deve ser intuitiva e responder rapidamente às ações do usuário.
+3. **Desempenho**: O sistema deve ser capaz de gerenciar um número razoável de agendamentos de forma eficiente.
+4. **Compatibilidade**: O sistema deve funcionar corretamente em diferentes navegadores web.
+5. **Responsividade**: A aplicação deve se adaptar a diferentes tamanhos de tela para suportar dispositivos móveis e desktops.
 </br>
 <h1 align="center">Telas do Sistema
 </h1>
