@@ -11,21 +11,22 @@
 
 </br>
 
-- Atividade: Criar um MVP
-- Situação Problema escolhida (resumo): Plataforma web que proporcione acesso rápido e fácil às publicações acadêmicas da Editora Unifeso. 
+- ## Atividade: Criar um MVP
+- ## Situação Problema escolhida (resumo): 
+Plataforma web que proporcione acesso rápido e fácil às publicações acadêmicas da Editora Unifeso. 
 
 
-- Situação-Problema <br>
+- ## Situação-Problema <br>
 Apresentamos o #2 desafio empolgante e impactante que enfrentamos na Editora Unifeso, uma divisão do Centro Universitário Serra dos Órgãos (Unifeso). Desde o seu lançamento, a Editora Unifeso tem desempenhado um papel fundamental na publicação e divulgação da produção acadêmica da instituição. No entanto, estamos buscando uma oportunidade de reestruturar nosso site de publicações para tornar a produção acadêmica mais acessível e visível à comunidade Unifeso, composta por estudantes, funcionários e acadêmicos em geral.
 
-- O Desafio <br>
+- ## O Desafio <br>
 O desafio que enfrentamos é a necessidade de criar uma plataforma web que proporcione acesso rápido e fácil às publicações acadêmicas da Editora Unifeso. Queremos simplificar a experiência de descoberta e acesso aos trabalhos publicados, garantindo que nossa produção acadêmica receba a visibilidade que merece.
 
-- Possíveis Atores Envolvidos
+- ## Possíveis Atores Envolvidos
 Usuários Finais: A plataforma visa atender à comunidade Unifeso, incluindo estudantes, funcionários e acadêmicos interessados nas publicações da Editora.
 Administração da Editora: A equipe de gestão da Editora será responsável pelo cadastramento e gerenciamento das publicações, além de outras tarefas administrativas.
 
-- Exigências
+- ## Exigências
     - Sistema de Cadastro de Publicações: Deve permitir que o administrador cadastre novas publicações, incluindo informações como título, autor, data de publicação, resumo e categorias.
     - Sistema de Busca Avançada: Deve oferecer aos usuários uma funcionalidade de pesquisa avançada, permitindo a filtragem de publicações por autor, categoria, data de publicação e palavras-chave.
     - Visualização Detalhada: Os usuários devem poder acessar uma visualização detalhada de cada publicação, incluindo informações completas sobre o conteúdo e opções de download.
@@ -37,23 +38,22 @@ Administração da Editora: A equipe de gestão da Editora será responsável pe
     - Desempenho Rápido: O sistema deve responder rapidamente para acomodar um grande número de usuários.
 
 </br>
-Aqui está uma versão resumida dos requisitos:
 
-**Requisitos Funcionais**:
+- ## Requisitos Funcionais
+    - **Criação de Agendamentos**: Deve ser possível adicionar novos agendamentos à lista.
+    - **Remoção de Agendamentos**: Os usuários devem poder remover agendamentos da lista.
+    - **Login do Usuário**: O sistema deve permitir que os usuários se autentiquem com credenciais corretas.
+    - **Visualização de Agendamentos**: Os usuários devem poder ver uma lista de agendamentos após o login.
+    - **Informações do Agendamento**: A lista deve mostrar detalhes como título, descrição e data de vencimento de cada agendamento.
+ 
 
-1. **Login do Usuário**: O sistema deve permitir que os usuários se autentiquem com credenciais corretas.
-2. **Visualização de Agendamentos**: Os usuários devem poder ver uma lista de agendamentos após o login.
-3. **Informações do Agendamento**: A lista deve mostrar detalhes como título, descrição e data de vencimento de cada agendamento.
-4. **Criação de Agendamentos**: Deve ser possível adicionar novos agendamentos à lista.
-5. **Remoção de Agendamentos**: Os usuários devem poder remover agendamentos da lista.
-
-**Requisitos Não Funcionais**:
-
-1. **Segurança**: As informações de login dos usuários devem ser armazenadas de forma segura para evitar acessos não autorizados.
-2. **Usabilidade**: A interface do usuário deve ser intuitiva e responder rapidamente às ações do usuário.
-3. **Desempenho**: O sistema deve ser capaz de gerenciar um número razoável de agendamentos de forma eficiente.
-4. **Compatibilidade**: O sistema deve funcionar corretamente em diferentes navegadores web.
-5. **Responsividade**: A aplicação deve se adaptar a diferentes tamanhos de tela para suportar dispositivos móveis e desktops.
+- ## Requisitos Não Funcionais
+    - **Compatibilidade**: O sistema deve funcionar corretamente em diferentes navegadores web.
+    - **Responsividade**: A aplicação deve se adaptar a diferentes tamanhos de tela para suportar dispositivos móveis e desktops.
+    - **Segurança**: As informações de login dos usuários devem ser armazenadas de forma segura para evitar acessos não autorizados.
+    - **Usabilidade**: A interface do usuário deve ser intuitiva e responder rapidamente às ações do usuário.
+    - **Desempenho**: O sistema deve ser capaz de gerenciar um número razoável de agendamentos de forma eficiente.
+   
 </br>
 <h1 align="center">Telas do Sistema
 </h1>
